@@ -1,1 +1,1 @@
-window.alert("Be careful!!");
+alert("Be careful!!");
